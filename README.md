@@ -7,6 +7,6 @@
         "project(s)": ["n/a"]
         "service(s)": ["websites", "hosting"]
         "note": "i was pretty bored so i hackered this JSON file :trolley_bus:",
-        "contact(s)": ["https://t.me/skidripped", "https://twitter.com/skidripping", "https://instagram.com/skidripping"],
+        "contact(s)": ["https://t.me/mitigated", "https://twitter.com/skidripping", "https://instagram.com/skidripping"],
     }
 }
