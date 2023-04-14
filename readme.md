@@ -1,5 +1,5 @@
-- Programming: Python, Golang, PHP, JavaScript
-- Web Development: PHP, JavaScript, HTML, CSS
+- Programming: Python, Golang
+- Web Development: PHP, JavaScript, Sass
 - Robotics: ROS, Gazebo
 - Artificial Intelligence
 - System Administration
